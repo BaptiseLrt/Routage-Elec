@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name CmpAmpliAudio)(type Legacy)(uri "C:/Users/Utilisateur/Documents/BE Elec/Routage/LibAmpli_3imacs/CmpAmpliAudio.lib")(options "")(descr ""))
+  (lib (name RoutageBE3A-rescue)(type Legacy)(uri ${KIPRJMOD}/RoutageBE3A-rescue.lib)(options "")(descr ""))
+  (lib (name Ampli_perso)(type Legacy)(uri ${KIPRJMOD}/Ampli_perso.lib)(options "")(descr ""))
+  (lib (name Relay)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Relay.lib)(options "")(descr ""))
+  (lib (name Connector_Generic)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector_Generic.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/power.lib)(options "")(descr ""))
+  (lib (name Sensor_Temperature)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Sensor_Temperature.lib)(options "")(descr ""))
+  (lib (name 74xx_IEEE)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/74xx_IEEE.lib)(options "")(descr ""))
+  (lib (name CPU)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/CPU.lib)(options "")(descr ""))
+  (lib (name Mechanical)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Mechanical.lib)(options "")(descr ""))
+)
